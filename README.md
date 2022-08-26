@@ -2,9 +2,7 @@
 
 False information on the Internet has caused many social problems due to the raise of social network and its role in different domains such as politics. In this assignment, we are going to predict if a specific reddit post is fake news or not, by looking at its title. The data is raw (contains various forms of words) so it is up to you on what text preprocessing techniques to be applied.
 
-Enjoy!
-
-Steps:
+## Steps:
 
 
 ✔️ Problem Formulation:
@@ -44,6 +42,6 @@ At least cover xgboosting.
 
 🌈 What is the difference between count vectorizer and tf-idf vectorizer? Would it be feasible to use all possible n-grams? If not, how should you select them?
 
-Deliverable:
+# Deliverable:
 
 🔥 A single python notebook containing the documentation of how you reach the final design as well as the answers to the questions.
