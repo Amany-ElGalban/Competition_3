@@ -42,6 +42,6 @@ At least cover xgboosting.
 
 🌈 What is the difference between count vectorizer and tf-idf vectorizer? Would it be feasible to use all possible n-grams? If not, how should you select them?
 
-# Deliverable:
+### Deliverable:
 
 🔥 A single python notebook containing the documentation of how you reach the final design as well as the answers to the questions.
